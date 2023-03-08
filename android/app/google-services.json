@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34065004605",
+    "project_id": "lab12-it-firestor",
+    "storage_bucket": "lab12-it-firestor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34065004605:android:b330eaf34e6c86d76c9254",
+        "android_client_info": {
+          "package_name": "com.example.lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34065004605-pnq35ms09g43fdfdurrpufk7tlrg9ejo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqtx4LpCKg4vOhTBKTLHBxNCZtyMi_1gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34065004605-pnq35ms09g43fdfdurrpufk7tlrg9ejo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
