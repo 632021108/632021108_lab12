@@ -15,7 +15,7 @@ class _HomePageState extends State<HomePage> {
   final _typeController = TextEditingController();
   @override
   Widget build(BuildContext context) {
-    
+
     return Scaffold(
       appBar: AppBar(
         title: const Text('Homepage'),
@@ -27,8 +27,8 @@ class _HomePageState extends State<HomePage> {
             shrinkWrap: true,
             children: [
               addDataSection(),
-              showOnetimeRead(),
-              showRealtimeChange(),
+              // showOnetimeRead(),
+              // showRealtimeChange(),
             ],
           ),
         ),

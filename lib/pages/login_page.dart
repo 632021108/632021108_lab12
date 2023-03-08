@@ -46,7 +46,6 @@ class _LoginPageState extends State<LoginPage> {
                 thickness: 2,
                 color: Colors.grey,
               ),
-              buildGoogleSignin(),
             ],
           ),
         ),
@@ -113,5 +112,4 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
   
-  buildGoogleSignin() {}
 }
